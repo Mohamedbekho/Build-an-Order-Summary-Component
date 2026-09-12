@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Design preview for the Order summary card coding challenge](preview.jpg)
 
 ### Links
 
